@@ -36,7 +36,7 @@ file_locker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/file_locker.git
+git clone https://github.com/rahulrgit/file_locker.git
 cd file_locker
 ```
 
@@ -72,12 +72,6 @@ Enter master password:
 - Folder is hidden (not encrypted)
 - For real security, implement encryption (e.g., using `cryptography` module)
 
-## 📌 Future Improvements
-
-- ✅ GUI using Tkinter
-- ✅ Logs of locked/unlocked actions
-- ✅ Cross-platform hidden folder logic
-- ✅ Real encryption (AES/GPG)
 
 ## 📄 License
 
